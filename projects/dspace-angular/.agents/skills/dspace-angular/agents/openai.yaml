@@ -1,0 +1,3 @@
+interface:
+  display_name: "Dspace Angular"
+  short_description: "DSpace Angular frontend, UI accessibility, SSR and API integration"

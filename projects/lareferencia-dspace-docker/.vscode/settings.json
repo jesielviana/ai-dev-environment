@@ -1,0 +1,12 @@
+{
+  "files.exclude": {
+    "**/.git": true
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/target": true,
+    "**/dist": true,
+    "**/.angular": true
+  },
+  "editor.formatOnSave": false
+}

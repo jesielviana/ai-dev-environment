@@ -1,0 +1,1 @@
+Diagnostique [ERRO] sem alterar codigo inicialmente. Identifique sintomas, hipoteses ordenadas por probabilidade, comandos de verificacao seguros, causa raiz sustentada por evidencias e correcao minima. Separe fatos de suposicoes.

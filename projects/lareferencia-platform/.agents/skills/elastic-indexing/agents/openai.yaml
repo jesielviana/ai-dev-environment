@@ -1,0 +1,3 @@
+interface:
+  display_name: "Elastic Indexing"
+  short_description: "Elasticsearch mappings, queries, aliases, reindexing and migrations"

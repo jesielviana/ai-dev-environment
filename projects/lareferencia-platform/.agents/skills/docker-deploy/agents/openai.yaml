@@ -1,0 +1,3 @@
+interface:
+  display_name: "Docker Deploy"
+  short_description: "Docker Compose development environments, networks, healthchecks and deployments"

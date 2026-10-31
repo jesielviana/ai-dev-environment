@@ -1,0 +1,3 @@
+interface:
+  display_name: "Dspace Backend"
+  short_description: "DSpace Java backend changes, REST endpoints, metadata, Solr search, identifiers, indexing and author"

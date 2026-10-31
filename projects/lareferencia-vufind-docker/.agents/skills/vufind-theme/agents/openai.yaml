@@ -1,0 +1,3 @@
+interface:
+  display_name: "Vufind Theme"
+  short_description: "VuFind 11 PHP, Laminas templates, themes, CSS and accessible customization"

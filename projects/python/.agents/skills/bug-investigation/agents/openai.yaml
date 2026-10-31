@@ -1,0 +1,3 @@
+interface:
+  display_name: "Bug Investigation"
+  short_description: "Reproduce and root-cause Java, Angular, PHP, Docker, Solr and Elasticsearch defects"

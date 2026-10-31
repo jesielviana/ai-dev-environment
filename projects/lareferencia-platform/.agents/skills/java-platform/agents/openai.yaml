@@ -1,0 +1,3 @@
+interface:
+  display_name: "Java Platform"
+  short_description: "LA Referencia Java Spring Maven multi-module platform, harvesting and APIs"

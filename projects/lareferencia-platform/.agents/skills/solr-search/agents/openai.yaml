@@ -1,0 +1,3 @@
+interface:
+  display_name: "Solr Search"
+  short_description: "Solr schema, analyzers, Lucene queries, vector search and DSpace search diagnostics"

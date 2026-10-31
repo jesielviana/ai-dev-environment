@@ -1,0 +1,3 @@
+interface:
+  display_name: "Code Review"
+  short_description: "Independent security, correctness, compatibility and performance review of a Git diff"

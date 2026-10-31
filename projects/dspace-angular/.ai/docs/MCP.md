@@ -1,0 +1,4 @@
+# MCP integration (optional)
+Do not enable arbitrary MCP servers by default. Start with native Codex/VS Code capabilities. For GitHub, use a trusted official GitHub MCP implementation only after verifying its documentation and required permissions. Use least-privilege, read-only credentials for initial tests. Keep credentials in the OS keychain/environment, never in repository files. For filesystem, database, Docker and browser MCP integrations, scope access to local development resources and require confirmation for writes. Review server source, version and transport before installation; no unverified install commands are included.
+
+Checklist: identify use case -> review server publisher and permissions -> test in isolated workspace -> verify tools exposed -> document credential rotation and revocation.
